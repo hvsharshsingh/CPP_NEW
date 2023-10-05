@@ -12,4 +12,4 @@ int main (){
     cout<<"FACTORIAL OF THE GIVEN NUMBER IS : ";
     cout<<PRODUCT;
     return 0;
-}305
+}
