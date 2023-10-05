@@ -16,6 +16,7 @@ int main ()
             break;
         }
      } 
+     if ( n == 1 ) cout<<"NITHER PRIME, NOR COMPOSITE";
      if ( flag == true )
      {
         cout<<"THE NUMBER IS PRIME NUMBER";

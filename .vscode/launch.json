@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/C++ Course/CPP NEW/DISPLAY AP",
-      "program": "d:/C++ Course/CPP NEW/DISPLAY AP/build/Debug/outDebug",
+      "cwd": "d:/C++ Course/CPP NEW/DISPLAY ARITHMATIC PROGRESSION",
+      "program": "d:/C++ Course/CPP NEW/DISPLAY ARITHMATIC PROGRESSION/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
